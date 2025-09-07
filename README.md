@@ -5,7 +5,7 @@
 - 数学科学学院  苏州大学
 - 邮箱: xuejunma@suda.edu.cn
 ## 时间和地点
-周四: 第2-5节，
+周四: 第2-4节，博远楼208
 
 ## 参考文献
 - [神经网络与深度学习]([https://item.jd.com/12663576.html](https://item.jd.com/12851292.html))
